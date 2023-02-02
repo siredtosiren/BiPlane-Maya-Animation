@@ -12,3 +12,4 @@ Key Position                      In Tangent                    Out Tangent
     240                              slow in                      linear out 
     300                              linear in                     none
     
+*see raw for full graph
